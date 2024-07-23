@@ -1,0 +1,24 @@
+@font-face {
+    font-family: "Nimbus-mono";
+    src: url("fonts/Nimbus-mono/nimbusmono-bold.otf");
+}
+
+body {
+    background-color: black;
+    color: white;
+    font-family: "Nimbus-mono";
+}
+
+h1 {
+    color: #ffcb04;
+    text-align: center;
+    background-color: #2f549b;
+}
+
+#starters_image_div {
+    text-align: center;
+    width: 410px;
+    border: 5px solid blue;
+    padding: 5px;
+    
+}
